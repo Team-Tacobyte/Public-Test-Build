@@ -1,44 +1,24 @@
-# Public-Test-Build
-TacoByte(PTB) is the very unstable, we are always updating it. We don't recommend you using this other then testing. Tons of bugs and glitches will appear.
+# Plublic Test Build
+## Disclaimer
+**TacoByte(PTB)** is currently unstable.
+Our team is working on releasing updates we don't recommend using this current release. 
+Keep in mind if you discover any bugs/problems or have any suggestions. Please report them [here](https://github.com/Team-Tacobyte/Public-Test-Build/issues/new)
 
-If you find a bug please report it. 
+## Release's
+You can find other elease's bellow
+| Release | Status | URL |
+| -------- | ------ | ----  
+| Stable.v1 | Outdated | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/Stable) |
+| Pre-Alpha | Unstable| [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/pre-alpha) |
+| Alpha v0.2 | Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/v0.2-alpha) |
+| Pre-Beta v0.2 | Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/0.0.2) |
 
-[Click here to report a bug](https://github.com/Team-Tacobyte/bug-reports/issues/new)
+## License
+Copyright 2021 TacoByte
 
-### Downloading TacoByte Public Test Build 
-```
-git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
-```
+[LICENSE](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/LICENSE)
 
-- To run it you can go into the src folder and run the html files
+## Join us!
+You can Join us [here](https://discord.com/invite/bnfHAe3Na5)
 
-### Updating TacoByte PTB
-```
-To update TacoByte(PTB) you must delete the folder and then clone it again 
-```
-```
-git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
-```
-
-
-### Other ways to download
-```
-You can download the stable version 
-```
-[Stable](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/0.0.2)
-
-### License
-
-- Copyright 2021 TacoByte
-
-[LICENSE File](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/LICENSE)
-
-[Base Branch](https://github.com/Team-Tacobyte/Public-Test-Build/tree/master)
-### Contributing
-Please read the contributing file [here](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/Contributing.md)
-
-### Others
-
-You can also report bugs [here](https://github.com/Team-Tacobyte/Public-Test-Build/issues/new)
-
-[Discord Server](https://discord.gg/bnfHAe3Na5)
+> TacoByte 2021
