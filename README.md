@@ -12,7 +12,6 @@ You can find other releases below.
 | Pre-Alpha | Unstable| [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/pre-alpha) |
 | Alpha v0.2 | Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/v0.2-alpha) |
 | Pre-Beta v0.2 | Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/0.0.2) |
-[View all release](https://github.com/Team-Tacobyte/Public-Test-Build/releases)
 
 ## License
 Copyright 2021 TacoByte
