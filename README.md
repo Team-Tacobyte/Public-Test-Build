@@ -22,4 +22,4 @@ Copyright 2021 TacoByte
 ## Join us!
 You can Join us [here](https://discord.com/invite/bnfHAe3Na5)
 
-> TacoByte 2021
+> TacoByte 2021  
