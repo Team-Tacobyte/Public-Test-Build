@@ -16,7 +16,7 @@ You can find other releases below.
 ## License
 Copyright 2021 TacoByte
 
-[LICENSE](https://github.com/Team-Tacobyte/Public-Test-Build/blob/master/LICENSE)
+[LICENSE](https://github.com/Team-Tacobyte/Public-Test-Build/blob/master/LICENSE.md)
 
 ## Join us!
 You can Join us [here](https://discord.com/invite/bnfHAe3Na5)
