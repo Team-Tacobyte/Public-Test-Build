@@ -1,3 +1,5 @@
+// Copyright TacoByte 2021
+
 function showPreview(){
     var htmlCode = document.getElementById("htmlCode").value;
     var cssCode = "";

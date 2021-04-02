@@ -1,3 +1,7 @@
+<!--
+  Copyright TacoByte 2021
+-->
+
 # Contributing
 
 We are open for people to contribute to this GitHub repository
