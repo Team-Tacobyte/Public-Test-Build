@@ -16,7 +16,7 @@ You can find other releases below.
 ## License
 Copyright 2021 TacoByte
 
-### Contributing 
+## Contributing 
 Look at the contributing file [here](https://github.com/Team-Tacobyte/Public-Test-Build/blob/master/Contributing.md)
 
 [LICENSE](https://github.com/Team-Tacobyte/Public-Test-Build/blob/master/LICENSE.md)
