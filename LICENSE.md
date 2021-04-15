@@ -1,7 +1,3 @@
-<!--
-  Copyright TacoByte 2021
--->
-
 Tacobyte License 
 
 Copyright 2021 **Tacobyte**
