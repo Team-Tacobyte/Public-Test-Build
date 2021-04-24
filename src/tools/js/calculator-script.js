@@ -1,3 +1,5 @@
+// Copyright TacoByte 2021
+
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement
