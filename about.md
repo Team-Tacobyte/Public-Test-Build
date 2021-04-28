@@ -1,5 +1,2 @@
 ## What is TacoByte?
-TacoByte is a community of Developers, Product Managers, and Data Scientists/Engineers. With a forum for asking questions with an active [Discord Server.](https://discord.gg/y8wy8r2n6v)
-
-
-We make lots of Open-Source software and web apps. And is partnering with other communities and developers!
+TacoByte is a community of developers, product managers, and data scientists/engineers. We have a website that is currently in development, and an active [Discord Server](https://discord.gg/y8wy8r2n6v) to hangout at. Our community is intended for beginners to absolute l33ts, so don't worry about your current skills when joining. We work on many open-source projects, and we are up for partnering with other communities and developers.
