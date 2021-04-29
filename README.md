@@ -20,7 +20,6 @@ To update TacoByte(PTB) you must delete the folder and then clone it again
 git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
 ```
 
-
 ### Other ways to download
 ```
 You can download the stable version 
