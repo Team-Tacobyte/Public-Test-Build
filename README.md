@@ -1,4 +1,12 @@
 # Plublic Test Build
+
+```
+We are closing this repo since we are working on a better version. Any Pull Request or Issues will be closed.
+There will be updates in the new github repo coming soon...
+
+```
+
+
 ## Disclaimer
 **TacoByte(PTB)** is currently unstable.
 Our team is working on releasing updates we don't recommend using this current release. 
