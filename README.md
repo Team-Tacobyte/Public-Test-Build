@@ -31,5 +31,3 @@ Look at the contributing file [here](https://github.com/Team-Tacobyte/Public-Tes
 
 ## Join us!
 You can Join us [here](https://discord.com/invite/bnfHAe3Na5)
-
-> TacoByte 2021  
